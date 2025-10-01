@@ -7,4 +7,13 @@ pymongo[srv]==4.15.1
 scikit-learn
 pyyaml
 dill
+mlflow==2.18.0
+dagshub
+fastapi
+uvicorn
+jinja2
+starlette
+requests
+python-multipart
+pydantic
 # -e .
